@@ -15,3 +15,12 @@
 
 ### 4 - Inputs.
 - Forma de deixar códigos mais dinâmicos e iterativos com o usuáiro. [Inputs](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/main/Input.ipynb).
+
+
+### 5 - Operações matemáticas em Python.
+- Aprendendo a realizar operações de adição, subtração, multiplicação, divisão, potencialização, raiz, resto. [Operações Matemáticas](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Opera%C3%A7%C3%B5es%20Matem%C3%A1ticas.ipynb).
+
+
+### 6 - Bibliotecas
+- Como trabalhar com as bibliotecas python, aprendendo a importar e utilizar no código com o exemplo da bilbioteca random. [Bibliotecas](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Bibliotecas%20-%20Trabalhando%20com%20a%20Biblioteca%20Random.ipynb).
+
