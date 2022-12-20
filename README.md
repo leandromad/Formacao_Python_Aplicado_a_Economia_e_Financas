@@ -24,3 +24,6 @@
 ### 6 - Bibliotecas
 - Como trabalhar com as bibliotecas python, aprendendo a importar e utilizar no código com o exemplo da bilbioteca random. [Bibliotecas](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Bibliotecas%20-%20Trabalhando%20com%20a%20Biblioteca%20Random.ipynb).
 
+### 7 - Listas e Tuplas
+- Como utilizar listas e tuplas na prática. [Listas e Tuplas](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Listas%20e%20Tuplas.ipynb).
+
