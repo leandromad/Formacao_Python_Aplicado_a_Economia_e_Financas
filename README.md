@@ -28,8 +28,8 @@
 - Como utilizar listas e tuplas na prática. [Listas e Tuplas](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Listas%20e%20Tuplas.ipynb).
 
 ### 8 - Sets
-- Sets na prática, como remover duplicatas em listas. [Sets] (https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Sets.ipynb).
+- Sets na prática, como remover duplicatas em listas. [Sets](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Listas%20e%20Tuplas.ipynb)
 
 ### 9 - Dicionários
-- Dicionários na prática, como criar mini banco de dados em pytho. [Dicionários] (https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Dicion%C3%A1rios.ipynb).
+- Dicionários na prática, como criar mini banco de dados em pytho.  [Dicionários](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Dicion%C3%A1rios.ipynb)
 
