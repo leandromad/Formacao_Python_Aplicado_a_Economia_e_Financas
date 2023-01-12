@@ -33,3 +33,27 @@
 ### 9 - Dicionários
 - Dicionários na prática, como criar mini banco de dados em pytho.  [Dicionários](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Dicion%C3%A1rios.ipynb)
 
+### 10 - Manipulação de Strings e REGEX
+- Transformar strings minusculas, maiusculas, validação de emails [Strings e REGEX](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Manipulando%20Strings%20e%20REGEX.ipynb)
+
+### 11 - Condições
+- Estruturas de condições if, else, elif [Estruturas de Condições](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Estruturas%20de%20Condi%C3%A7%C3%B5es.ipynb)
+
+### 12 - Laços de Repetição
+- Percorrer uma lista com laçoes de repetição [Laços de Repetição](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o.ipynb)
+
+### 13 - Funções
+- Como criar uma função que cálcula retornos de um portifólio [Funções](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Fun%C3%A7%C3%B5es.ipynb)
+
+### 14 - Tratamento de Erros
+- Como tratar erros dentro do Python [Tratamento de Erros](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Tratamento%20de%20Erros.ipynb)
+
+### 15 - Ferramentas Avançadas
+- List Comprehension, Map, e Filter [Ferramentas Avançadas](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Ferramentas%20Avan%C3%A7adas.ipynb)
+
+### 16 - Datas
+- Como trabalhar com Datas em Python [Datas](https://github.com/leandromad/Formacao_Python_Aplicado_a_Economia_e_Financas/blob/master/Datas.ipynb)
+
+
+
+
